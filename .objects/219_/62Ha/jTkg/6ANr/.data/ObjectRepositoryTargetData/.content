@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZjbkyekZK0WD1rNV17723Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sha1-online.com" CVScreenId="80d4c212-eac6-415a-8f16-a7d2defd30b0" DesignTimeRectangle="765, 455, 637, 29" DesignTimeScaleFactor="1.350000023841858" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='sha1-title' tag='P' visibleinnertext='Result for sha1:*' /&gt;&lt;webctrl id='result-sha1' tag='SPAN' /&gt;" Guid="ba2b90a2-3e0f-45a1-b7f9-eb365a98bfd8" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SHA1 online' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="80d4c212-eac6-415a-8f16-a7d2defd30b0" DesignTimeRectangle="497, 455, 945, 29" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='P' aaname='Result for sha1:  ' /&gt;" Guid="268fbbdc-0ad1-45e6-823a-03930f92a1a2" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c7e313e8696676e330bb2764beabb945.png" xmlns="">0G1ZXxTZabEe2_4lnJpO3YQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

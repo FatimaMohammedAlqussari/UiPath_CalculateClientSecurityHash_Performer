@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Result for sha1  c04d8…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "6ANrqn0F0ki6Shlr66DsQw",
+  "Reference": "QfSDmA7tO0uG3-YnVcsjug/6ANrqn0F0ki6Shlr66DsQw",
+  "ParentRef": "QfSDmA7tO0uG3-YnVcsjug/jTkgSsJKrUq9J4ED2ZVjDw",
+  "Created": "2024-11-27T12:17:09.9383739Z",
+  "Updated": "2024-11-27T12:17:09.9383739Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="C34qRqU3LUGIFNo26sK3uA" Reference="NHxOlbpBJkOoUtxC-i8oIw/LVT_BSB5bUCD-DFY3CxzMQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="659, 148, 580, 839" BrowserType="Edge" ContentHash="J1-3YeGm60CahUZdfX_9ng" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABuSURBVDhPY0AC8UD8Hoj/Y8H9QEwQ3AdiBQgTBYAMWADE88E8PACkEBuAiRM0hJABIIDXEHwGCECYYIDTEFwGNAAxSA4dYwCsgjjAqAHD1wBQTsSWmdABSA0o42GABCAGSYBMx4dBFoHUAgEDAwBN0Tbbkk+sUQAAAABJRU5ErkJggg==" Reference="NHxOlbpBJkOoUtxC-i8oIw/LVT_BSB5bUCD-DFY3CxzMQ" Selector="&lt;html app='msedge.exe' htmlwindowname='WI-Update' title='ACME System 1' url='https://acme-test.uipath.com/work-items/update/*' /&gt;" Title="ACME System 1" Url="https://acme-test.uipath.com/work-items/update/*" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="09a05b0773bbf40faca1c217baaddffe.jpg" xmlns="">09a05b0773bbf40faca1c217baaddffe.jpg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

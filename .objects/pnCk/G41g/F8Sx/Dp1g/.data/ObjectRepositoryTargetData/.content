@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ndxUUAK_Yk2Ux4cbqrsiBw" Reference="QfSDmA7tO0uG3-YnVcsjug/Dp1guTew2kOFlf7gAP_vtA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/update/104073764" CVScreenId="a4700672-c452-4b67-ae7b-3c155041d9cf" DesignTimeRectangle="71, 461, 467, 72" DesignTimeScaleFactor="1.350000023841858" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='newComment' tag='TEXTAREA' /&gt;" Guid="9576fcec-f847-4201-8864-f2bf0d1d32b4" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='WI-Update' url='https://acme-test.uipath.com/work-items/update/*' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a4d1d4e873d84035aa1c23125a1f31b9.png" xmlns="">0JFrnpP30i0mGboAQxgOHaw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
